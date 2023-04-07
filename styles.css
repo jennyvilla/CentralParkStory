@@ -1,0 +1,11 @@
+body{background-color: #C3C48D;
+margin: 70px;}
+h1{color:#222E50;}
+h2{
+padding: 20px;
+width:500px;
+text-align:center;
+background-color: #B9E28C;}
+a{text-decoration: none;
+    color: #474B24;}
+a.choice{font-size:2em;}
